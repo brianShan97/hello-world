@@ -1,0 +1,28 @@
+//items
+item.obsidian_ingot.name=Obsidian Ingot
+
+//foods
+item.obsidian_chocolate.name=Obsidian Chocolate
+
+//tools
+item.obsidian_sword.name=Obsidian Sword
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+item.obsidian_axe.name=Obsidian Axe
+item.obsidian_spade.name=Obsidian Shovel
+item.obsidian_hoe.name=Obsidian Hoe
+
+//armors
+item.obsidian_helmet.name=Obsidian Helmet
+item.obsidian_chestplate.name=Obsidian Chestplate
+item.obsidian_leggings.name=Obsidian Leggings
+item.obsidian_boots.name=Obsidian Boots
+
+//blocks
+tile.crying_obsidian_block.name=Crying Obsidian Block
+
+//tabs
+itemGroup.block_tab=Block Tab
+itemGroup.item_tab=Item Tab
+
+//entities
+entity.obsidian_slime.name=Obsidian Slime

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " L ",
+        "LOL",
+        " L "
+    ],
+    
+    "key":
+    {
+        "L":
+        {
+            "item": "minecraft:dye",
+            "data": 4
+        },
+
+        "O":
+        {
+            "item": "minecraft:obsidian"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tm:crying_obsidian_block",
+        "count": 1
+    }
+}

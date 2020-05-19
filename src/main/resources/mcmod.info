@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "Tutorial Mod",
+  "description": "This is a mod for tutorial.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["brianShan974"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

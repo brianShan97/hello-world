@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "tm:obsidian_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraft:obsidian",
+        "count": 1
+    }
+}

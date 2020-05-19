@@ -1,0 +1,23 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    
+    {
+      "item": "minecraft:dye",
+      "data": 4
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "tm:obsidian_ingot",
+        "count": 1
+    }
+}
